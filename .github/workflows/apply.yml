@@ -1,4 +1,4 @@
-name: Deploy Infrastructure
+name: Deploy Infrastructure Git x tf
 on:
   push:
     branches:
