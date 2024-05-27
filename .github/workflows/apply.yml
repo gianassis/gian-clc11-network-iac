@@ -30,7 +30,7 @@ jobs:
         #continue-on-error: true
           
   Apply:
-    name: 'Apply Changes'
+    name: 'Apply Changess'
     runs-on: ubuntu-latest
     environment: aws_credentials
     needs: Checkov
