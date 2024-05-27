@@ -1,4 +1,4 @@
-name: Deploy Infrastructure Git x tf
+name: Deploy Infrastructure Git x Terraform
 on:
   push:
     branches:
